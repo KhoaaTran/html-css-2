@@ -530,7 +530,8 @@ a {
 
 /* Feature */
 .features {
-    margin-top: 134px;
+    margin-top: 135px;
+    padding: 65px 0;
 }
 
 .features .body {
@@ -594,7 +595,7 @@ a {
 /* Blog */
 .blog {
     margin-top: 135px;
-    padding: 65px 0;
+    padding: 96px 0;
     background: #fffcf4;
 }
 
